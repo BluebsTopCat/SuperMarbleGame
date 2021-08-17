@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &675239646083216500
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2469697564833739768}
+  - component: {fileID: 2850931327709052608}
+  m_Layer: 0
+  m_Name: SkinCache
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2469697564833739768
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 675239646083216500}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 958.2751, y: 538.493, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2850931327709052608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 675239646083216500}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57f9b92ee836eff47a01050e10772389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactable: 0
+  list:
+  - name: Default
+    image: {fileID: 8457133163073950930, guid: 2b697492d409946419767c69ae1d3b9a, type: 3}
+    details: Nothing special, the original skin.
+  - name: White
+    image: {fileID: -4836714588387048954, guid: 2b697492d409946419767c69ae1d3b9a, type: 3}
+    details: The ghost of OG ball
+  - name: Green
+    image: {fileID: -5863178871407352074, guid: 2b697492d409946419767c69ae1d3b9a, type: 3}
+    details: Bet you're green with envy
+  - name: Blue
+    image: {fileID: 5937910365444386180, guid: 2b697492d409946419767c69ae1d3b9a, type: 3}
+    details: Why so blue?
+  - name: Red
+    image: {fileID: 8249407769839133814, guid: 2b697492d409946419767c69ae1d3b9a, type: 3}
+    details: The ball is mad now
+  - name: Yellow
+    image: {fileID: 878047269052880727, guid: 2b697492d409946419767c69ae1d3b9a, type: 3}
+    details: Just roll with it.
+  - name: Gold Medal
+    image: {fileID: 2302495323386107214, guid: 2b697492d409946419767c69ae1d3b9a, type: 3}
+    details: For when you need that extra bit of shiny in your life.
+  - name: Pirate
+    image: {fileID: -3098631870148486114, guid: 2b697492d409946419767c69ae1d3b9a, type: 3}
+    details: What's under the eyepatch? Nobody knows.
+  - name: Cube
+    image: {fileID: 1724525201593573079, guid: 2b697492d409946419767c69ae1d3b9a, type: 3}
+    details: Quite literally unplayable.
+  - name: Pride
+    image: {fileID: 5338050097790602315, guid: 2b697492d409946419767c69ae1d3b9a, type: 3}
+    details: LGBT rights.
+  - name: OWO
+    image: {fileID: 21300000, guid: 20c9c4de2f99328428adbd1b4ca8394c, type: 3}
+    details: Forgive me for this creation.
+  - name: owo
+    image: {fileID: 21300000, guid: 372bc2dc2ea8b6f4896904daeceeae28, type: 3}
+    details: a more chill owo face.
+  - name: Blueberry
+    image: {fileID: 21300000, guid: 058bf6c0f65120547b6b11ea69a04e37, type: 3}
+    details: That's me!
+  - name: Insane
+    image: {fileID: 21300000, guid: 4c322a97b4f851e4fae1b5b467589b58, type: 3}
+    details: They're seen things
+  - name: Anime
+    image: {fileID: 21300000, guid: 8491706aab0a3cb418f2fb3884f3de7d, type: 3}
+    details: I didn't add this one by choice
+  - name: Monk E. Bahl
+    image: {fileID: 21300000, guid: 047bb1fa899652d4c83e339527573e93, type: 3}
+    details: From the hit video game Lemur Sphere.
+  - name: Coin
+    image: {fileID: 7145007425455830455, guid: 021b8701a208b934ba1b0d6a2472c95a, type: 3}
+    details: Penny for your thoughts?
+  - name: HD
+    image: {fileID: 21300000, guid: 45e0eabc86c9738489921c1c1f8da254, type: 3}
+    details: this was a mistake.
+  - name: Froge
+    image: {fileID: 21300000, guid: 5b76e15761c83064d9e3a47be8b34e21, type: 3}
+    details: Froge
+  - name: Custom
+    image: {fileID: 21300000, guid: 64cf221d8a2166b40b98ae06de04c3d7, type: 3}
+    details: Custom
+  currentskin: 0
+  ball: {fileID: 0}
+  name: {fileID: 0}
+  deets: {fileID: 0}
+  filepath: 
