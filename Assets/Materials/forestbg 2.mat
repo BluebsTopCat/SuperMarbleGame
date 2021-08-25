@@ -7,9 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: forestbg
+  m_Name: forestbg 2
   m_Shader: {fileID: 4800000, guid: e260cfa7296ee7642b167f1eb5be5023, type: 3}
-  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -24,13 +24,9 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: abfc725500d74b34581551ef3af148ce, type: 3}
-        m_Scale: {x: 2, y: 1}
-<<<<<<< Updated upstream
-        m_Offset: {x: 0.65620995, y: -0}
-=======
-        m_Offset: {x: 0.4390527, y: -0}
->>>>>>> Stashed changes
+        m_Texture: {fileID: 2800000, guid: 6291c0cb30c367c49b41814a9202c14a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _MaskTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}

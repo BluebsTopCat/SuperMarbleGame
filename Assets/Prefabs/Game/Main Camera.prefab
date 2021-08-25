@@ -144,7 +144,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 0
-    m_SensorSize: {x: 1.7777778, y: 1}
+    m_SensorSize: {x: 1.3333334, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -375,7 +375,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   layers:
-  - {fileID: 2100000, guid: abb63e8b837d0ef498c63ec7e3feb044, type: 2}
+  - {fileID: 0}
   - {fileID: 2100000, guid: 00e645eb48230994b87b551da5c4a426, type: 2}
   speeds:
   - 0.004
@@ -468,7 +468,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: abb63e8b837d0ef498c63ec7e3feb044, type: 2}
+  - {fileID: 2100000, guid: 00e645eb48230994b87b551da5c4a426, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
