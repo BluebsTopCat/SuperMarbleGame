@@ -26,7 +26,11 @@ Material:
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: abfc725500d74b34581551ef3af148ce, type: 3}
         m_Scale: {x: 2, y: 1}
+<<<<<<< Updated upstream
         m_Offset: {x: 0.65620995, y: -0}
+=======
+        m_Offset: {x: 0.4390527, y: -0}
+>>>>>>> Stashed changes
     - _MaskTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
